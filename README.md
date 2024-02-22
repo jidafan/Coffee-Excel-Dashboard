@@ -28,7 +28,7 @@ After transforming the data, a pivot table was created from the spreadsheet. Fro
 
 The dashboard contains a timeline for users to be able to specify the time range of the data they wish to observe. There are also filters using slicers to edit the information further. 
 
-![image](https://github.com/jidafan/Coffee-Excel-Dashboard/assets/141703009/4e39ab14-f270-4390-917c-d3f91c2adfd1)
+![image](https://github.com/jidafan/Coffee-Excel-Dashboard/assets/141703009/be7ab0b4-3161-418d-a14d-7c3dc2fbb2ab)
 
 ## Conclusion
 
