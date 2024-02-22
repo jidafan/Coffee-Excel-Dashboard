@@ -28,7 +28,10 @@ After transforming the data, a pivot table was created from the spreadsheet. Fro
 
 The dashboard contains a timeline for users to be able to specify the time range of the data they wish to observe. There are also filters using slicers to edit the information further. 
 
-![image](https://github.com/jidafan/Coffee-Excel-Dashboard/assets/141703009/5d5becfc-2e73-4950-8769-418da4a44cbb)
+![image](https://github.com/jidafan/Coffee-Excel-Dashboard/assets/141703009/4e39ab14-f270-4390-917c-d3f91c2adfd1)
 
 ## Conclusion
 
+### Next Steps
+* Perform analysis on whether specific days of the week are better for business
+* See if there's a trend on people purchasing from certain companies.
